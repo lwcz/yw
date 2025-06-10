@@ -1,0 +1,333 @@
+{
+	"assets" : {
+  "res/cfg.zip": {
+   "md5": "9dd5a9bcb02b88387ffe56cfe4f9c027", 
+   "size": 35618
+  },
+  "res/cfg64.zip": {
+   "md5": "df7d4399fb5f17065b14859d0c4320df", 
+   "size": 35620
+  },
+  "res/mir2.zip": {
+   "md5": "f73d10adce18176a9f02f7e1a3ca012f", 
+   "size": 1436797
+  },
+  "res/mir264.zip": {
+   "md5": "4818ddcba99d4a60fc473f91e6b82875", 
+   "size": 1534166
+  },
+     	"res/mp3/rain.mp3" : {
+		"md5" : "4d4f6e7575a122a2d6afbeffc89aaabb",
+		"size" : 1146588
+	    }, 
+		"res/mp3/NPC_万能商人.mp3" : {
+			"md5" : "bf21e986cda60aded56e73b981a649a6",
+			"size" : 74443
+		}, 
+		"res/mp3/NPC_九剑仙府.mp3" : {
+			"md5" : "5681f5e7e5bf747d3adaac299b1e51ab",
+			"size" : 176855
+		}, 
+		"res/mp3/NPC_九剑仙府2.mp3" : {
+			"md5" : "270fa556283b3de1a91e2fa6f55202e4",
+			"size" : 104296
+		}, 
+		"res/mp3/NPC_九剑仙府3.mp3" : {
+			"md5" : "c1d96b2f99d5ab4ccbc8f10d29e36770",
+			"size" : 135565
+		}, 
+		"res/mp3/NPC_仙府管家.mp3" : {
+			"md5" : "8d7a3b5973c029210c93f562697dfd8a",
+			"size" : 112075
+		}, 
+		"res/mp3/NPC_佣人.mp3" : {
+			"md5" : "e8c52d615543e52638eac69df29dfa6d",
+			"size" : 119196
+		}, 
+		"res/mp3/NPC_佣人2.mp3" : {
+			"md5" : "693e46932e94405a6314c10676db092e",
+			"size" : 109233
+		}, 
+		"res/mp3/NPC_修仙渡劫.mp3" : {
+			"md5" : "fe702dbd0e5d1e5e5d4808f853da62e5",
+			"size" : 116757
+		}, 
+		"res/mp3/NPC_合成.mp3" : {
+			"md5" : "fa5573fe4a78ed0d460cb28ab59c3e64",
+			"size" : 126764
+		}, 
+		"res/mp3/NPC_天书.mp3" : {
+			"md5" : "ef7c42413529ef36a8a6aa2a2b4ad035",
+			"size" : 89798
+		}, 
+		"res/mp3/NPC_天书2.mp3" : {
+			"md5" : "695c407fd5a061b9350120be06762dd9",
+			"size" : 280421
+		}, 
+		"res/mp3/NPC_天外法器.mp3" : {
+			"md5" : "a201b8423b78c93b786cd1afa30978d5",
+			"size" : 175360
+		}, 
+		"res/mp3/NPC_天外法器2.mp3" : {
+			"md5" : "6a7ce606e857db9c7753e9c806885ef1",
+			"size" : 102788
+		}, 
+		"res/mp3/NPC_天龙魂.mp3" : {
+			"md5" : "aa18c45644b18c277e5061a10678c067",
+			"size" : 43740
+		}, 
+		"res/mp3/NPC_寄售行1.mp3" : {
+			"md5" : "9d397b4dc547471a3931bcbe6901e268",
+			"size" : 147719
+		}, 
+		"res/mp3/NPC_寄售行2.mp3" : {
+			"md5" : "3b74f665420b1e169a8b59d26f752dc4",
+			"size" : 455270
+		}, 
+		"res/mp3/NPC_无界商铺.mp3" : {
+			"md5" : "55caf32cad9093480b7fbf3c98e04b07",
+			"size" : 190720
+		}, 
+		"res/mp3/NPC_时装大师.mp3" : {
+			"md5" : "b7267856a4e40049a044756895618ad7",
+			"size" : 169964
+		}, 
+		"res/mp3/NPC_洗髓.mp3" : {
+			"md5" : "6ded8713a4493b4ad4343165d7b01a23",
+			"size" : 109860
+		}, 
+		"res/mp3/NPC_洗髓2.mp3" : {
+			"md5" : "949e359c6d68a45327a16636f37203c9",
+			"size" : 168617
+		}, 
+		"res/mp3/NPC_炼器师.mp3" : {
+			"md5" : "2008724739dd788af24b94b699354503",
+			"size" : 221148
+		}, 
+		"res/mp3/NPC_称号使者.mp3" : {
+			"md5" : "c536e50228b38f66ed42f5406dbdea77",
+			"size" : 85410
+		}, 
+		"res/mp3/NPC_称号使者2.mp3" : {
+			"md5" : "d52e1b99a16658d8e572c286cb82049f",
+			"size" : 118205
+		}, 
+		"res/mp3/NPC_药剂师.mp3" : {
+			"md5" : "fb345902ba38bb90f274a896ca394940",
+			"size" : 134748
+		}, 
+		"res/mp3/NPC_行会仓库.mp3" : {
+			"md5" : "9f75e38d00a4c8c93ee0a9ae63233309",
+			"size" : 144540
+		}, 
+		"res/mp3/NPC_转盘大师.mp3" : {
+			"md5" : "02781e3962b71755a9fde847d8999790",
+			"size" : 80394
+		}, 
+		"res/mp3/NPC_鉴定大师.mp3" : {
+			"md5" : "6c8a8bc1a6c728c4d5ed5b31162263f4",
+			"size" : 73483
+		}, 
+		"res/mp3/NPC_鉴定大师2.mp3" : {
+			"md5" : "73ed9b753c73c9582c312aa25216d8af",
+			"size" : 171979
+		}, 
+		"res/mp3/NPC_铁匠.mp3" : {
+			"md5" : "6ae1e25c2b2636f5c1bb6b20598f5278",
+			"size" : 156096
+		}, 
+		"res/mp3/NPC_铁匠2.mp3" : {
+			"md5" : "597e2408ebaef750789ebc21d76e8d8d",
+			"size" : 128971
+		}, 
+		"res/mp3/NPC_铸器师.mp3" : {
+			"md5" : "b970f2dde5c296491af7d91cc28bcd49",
+			"size" : 89798
+		}, 
+		"res/mp3/NPC_铸器师2.mp3" : {
+			"md5" : "16e83d31c5a18153cd5469fa809b0a19",
+			"size" : 105947
+		}, 
+		"res/mp3/kcskill10.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/kcskill11.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/kcskill12.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/kcskill13.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/kcskill14.mp3" : {
+			"md5" : "78f988249e90f3878ef37ac957ad3146",
+			"size" : 67961
+		}, 
+		"res/mp3/kcskill17.mp3" : {
+			"md5" : "02333c75b29a814e87984849485d9cba",
+			"size" : 9968
+		}, 
+		"res/mp3/kcskill2.mp3" : {
+			"md5" : "4f368037ddd8396bd1d5f7449dc5ef82",
+			"size" : 36614
+		}, 
+		"res/mp3/kcskill20.mp3" : {
+			"md5" : "d36d6e67fcc628876685b11a665b46c7",
+			"size" : 74230
+		}, 
+		"res/mp3/kcskill21.mp3" : {
+			"md5" : "b895bc590e43b03e5846eae0314785c3",
+			"size" : 31391
+		}, 
+		"res/mp3/kcskill22.mp3" : {
+			"md5" : "77f99ada3316ee5e7e471050e2a5a973",
+			"size" : 69006
+		}, 
+		"res/mp3/kcskill23.mp3" : {
+			"md5" : "ed710f08ce16ae72a07d8424901f0d8e",
+			"size" : 94084
+		}, 
+		"res/mp3/kcskill24.mp3" : {
+			"md5" : "22cd9763e7c81e2a02208c3e998bf4dd",
+			"size" : 166181
+		}, 
+		"res/mp3/kcskill25.mp3" : {
+			"md5" : "03cdc02e4ea46e1de587b822fd2918ff",
+			"size" : 25644
+		}, 
+		"res/mp3/kcskill26.mp3" : {
+			"md5" : "f15e81bcbb7772ab8e43a5d77fafad90",
+			"size" : 94084
+		}, 
+		"res/mp3/kcskill27.mp3" : {
+			"md5" : "deaf9279d2d00aeca9941210ba036f69",
+			"size" : 57512
+		}, 
+		"res/mp3/kcskill28.mp3" : {
+			"md5" : "186cb8a6a0f0055c55b56c7f8a4a38c6",
+			"size" : 65871
+		}, 
+		"res/mp3/kcskill29.mp3" : {
+			"md5" : "ea115e66733b7516c09fd202022aa4e8",
+			"size" : 34525
+		}, 
+		"res/mp3/kcskill3.mp3" : {
+			"md5" : "d36d6e67fcc628876685b11a665b46c7",
+			"size" : 74230
+		}, 
+		"res/mp3/kcskill30.mp3" : {
+			"md5" : "78f988249e90f3878ef37ac957ad3146",
+			"size" : 67961
+		}, 
+		"res/mp3/kcskill31.mp3" : {
+			"md5" : "afc5c378933d2c63a5142a0b434430df",
+			"size" : 80500
+		}, 
+		"res/mp3/kcskill32.mp3" : {
+			"md5" : "afc5c378933d2c63a5142a0b434430df",
+			"size" : 80500
+		}, 
+		"res/mp3/kcskill33.mp3" : {
+			"md5" : "22cd9763e7c81e2a02208c3e998bf4dd",
+			"size" : 166181
+		}, 
+		"res/mp3/kcskill34.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/kcskill35.mp3" : {
+			"md5" : "588783b94247346e9c8825b538ace36e",
+			"size" : 29301
+		}, 
+		"res/mp3/kcskill36.mp3" : {
+			"md5" : "9f776425a6be7a76301bb2fb671f98f8",
+			"size" : 89904
+		}, 
+		"res/mp3/kcskill4.mp3" : {
+			"md5" : "d36d6e67fcc628876685b11a665b46c7",
+			"size" : 74230
+		}, 
+		"res/mp3/kcskill5.mp3" : {
+			"md5" : "36ce0c119a450d5834f3f8077b87c37b",
+			"size" : 104532
+		}, 
+		"res/mp3/kcskill6.mp3" : {
+			"md5" : "9bf57acdf1933f8bd055d4b8038ac0ad",
+			"size" : 73242
+		}, 
+		"res/mp3/kcskill7.mp3" : {
+			"md5" : "d13e274b23140712dc268d227cd74907",
+			"size" : 142149
+		}, 
+		"res/mp3/kcskill8.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/kcskill9.mp3" : {
+			"md5" : "fbfc292f25cfd1024392026b413060f7",
+			"size" : 77365
+		}, 
+		"res/mp3/rain.mp3" : {
+			"md5" : "4d4f6e7575a122a2d6afbeffc89aaabb",
+			"size" : 1146588
+		}, 
+		"res/mp3/传送.mp3" : {
+			"md5" : "f9b966e9dfe47faf15f244acd3c56a5f",
+			"size" : 56468
+		}, 
+		"res/mp3/制药.mp3" : {
+			"md5" : "1b90ac122035905fa423d0687aa55ea8",
+			"size" : 29823
+		}, 
+		"res/mp3/号角.mp3" : {
+			"md5" : "712192fbb380400ea166c0440077e86f",
+			"size" : 10944
+		}, 
+		"res/mp3/喝药.mp3" : {
+			"md5" : "ed831fc7aaee183091d9bfb503be60db",
+			"size" : 9970
+		}, 
+		"res/mp3/回收.mp3" : {
+			"md5" : "4555c67e2e8222e930bbdd0eb73b1e86",
+			"size" : 34707
+		}, 
+		"res/mp3/打开地图.mp3" : {
+			"md5" : "239e076ff638a96a728f74d3267861b6",
+			"size" : 25299
+		}, 
+		"res/mp3/打造.mp3" : {
+			"md5" : "8b9093ed65ab60648f29721ffc52658e",
+			"size" : 35048
+		}, 
+		"res/mp3/捶打.mp3" : {
+			"md5" : "7fa5fd4a6ad4072265c80819a893b921",
+			"size" : 17868
+		}, 
+		"res/mp3/捶打2.mp3" : {
+			"md5" : "bd381ad3d40f2b6632e35969b4b284d2",
+			"size" : 12960
+		}, 
+		"res/mp3/捶打3.mp3" : {
+			"md5" : "110ce0a0c101a841a26f1e2768f89919",
+			"size" : 27404
+		}, 
+		"res/mp3/捶打4.mp3" : {
+			"md5" : "1b90ac122035905fa423d0687aa55ea8",
+			"size" : 29823
+		}, 
+		"res/mp3/选择.mp3" : {
+			"md5" : "2d5baa4602baca3105c09c373cb14e10",
+			"size" : 6895
+		}
+	},
+"packageUrl": "http://8.138.105.95/assets/",
+"remoteManifestUrl": "http://8.138.105.95/project.manifest",
+"remoteVersionUrl": "http://8.138.105.95/version.manifest",
+"serverUrl": "http://8.138.105.95/",
+"version": "1.6.0801.3069"
+}
